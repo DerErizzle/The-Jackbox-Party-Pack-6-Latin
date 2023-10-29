@@ -1,0 +1,75 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "Anglicus",
+        "LANGUAGE": "Lingua",
+        "INTERNET_CONNECTED": "Nuper internet invenimus.",
+        "INTERNET_DISCONNECTED": "Dolemus, ad servitores Jackbox Games conectere non possumus.<br />Valeat tibi conexio internet bene esse verificare.",
+        "ROOM_DESTROYED": "Dolemus, error rete ortus est et camera tua destructa est.<br />Valeat tibi conexio internet bene esse verificare.",
+        "SOCKET_DISCONNECTED": "Dolemus, conexio ad servitores Jackbox Games amisimus.",
+        "TIMEOUT": "Dolemus, ad servitores Jackbox Games conectere non possumus.<br />Valeat tibi conexio internet bene esse verificare.",
+        "USER_DISCONNECT": "Dolemus, servitor te discinxit. Iterum conare.",
+        "LOST_LICENSE": "Dolemus, licentiam huius contenti amisimus!",
+        "STEAM_ERROR": "Dolemus, licentiam Steam tuam confirmare non potuimus.",
+        "TWITCH_PRIME_ERROR": "Dolemus, licentiam Twitch tuam confirmare non potuimus.",
+        "LOST_DLC": "Dolemus, licentia DLC tua reperiri non potuit. Te ad mensam revertimus...",
+        "CLOSE": "Claude",
+        "QUIT": "Exitus",
+        "BACK": "Retro",
+        "MENU_GAME_NAME_1": "FESTUM SAPIENTIA INTERFECTORE 2",
+        "MENU_GAME_NAME_2": "ROLE MODELS",
+        "MENU_GAME_NAME_3": "JOKE BOAT",
+        "MENU_GAME_NAME_4": "DICTIONARIUM",
+        "MENU_GAME_NAME_5": "PUSH THE BUTTON",
+        "MENU_GAME_NAME_DISABLED": "??????????",
+        "MENU_DLC": "DLC",
+        "MENU_SETTINGS": "OPES",
+        "MENU_HOW_TO": "QUOMODO",
+        "BADGE_TITLE_PLAYERS": "LUDIOTRAHENTES",
+        "BADGE_TITLE_FAMILY_MODE": "FAMILIA AMICA",
+        "BADGE_TITLE_NOT_FAMILY_MODE": "NON FAMILIA AMICA",
+        "BADGE_TITLE_AUDIENCE": "AUDIENTIA",
+        "BADGE_SUB_PLAYERS": "UTERE TELEPHONI/TABULA",
+        "BADGE_SUB_FAMILY_MODE": "FACULTATIVUS",
+        "BADGE_SUB_NOT_FAMILY_MODE": "SERIO DICIMUS!",
+        "BADGE_SUB_AUDIENCE": "AUDIENTES NON LUDITORES ADIUNGI POSSUNT",
+        "INFO_DESCRIPTION_GAME_1": "Seri occisor ludum triviae absurdam in domo necandae peragit, in qua ipse crevit. Perdurabisne?",
+        "INFO_DESCRIPTION_GAME_2": "Omnes aliquem sunt, ergo tu quis es? Consiliarius? Negligens? Facetiosus? In laboratorium ingredere et inveni.",
+        "INFO_DESCRIPTION_GAME_3": "Ahoy! Sis humorator rudis in nave quarta rate. Num vince talentum demonstrandi?",
+        "INFO_DESCRIPTION_GAME_4": "Homines verba et phrasium per saecula invenerunt. Nunc tibi responsio est ad paginas Dictionarii afferendi.",
+        "INFO_DESCRIPTION_GAME_5": "Cave! Alieni formae mutantur navi tua subintraverunt. Tu et societas tua eos reperire poteritis priusquam tempus consumatur?",
+        "INFO_DESCRIPTION_GAME_DISABLED": "??? ??????? ???? ? ????????? ????? ??????? ??????-???? ????.",
+        "SETTINGS_TITLE": "OPES",
+        "SETTINGS_FULL_SCREEN": "Modus Tela Largi",
+        "SETTINGS_VOLUME": "Sonitus Moderatio",
+        "SETTINGS_FULL_SCREEN_DESCRIPTION": "ACTIVUS ludum ad totum modum extendit.",
+        "SETTINGS_VOLUME_DESCRIPTION": "LUDUM LOQUUM vel TACITUM facit.",
+        "SETTINGS_TOGGLE_ON": "ACTIVUS",
+        "SETTINGS_TOGGLE_OFF": "INACTIVUS",
+        "HELP_TITLE": "INSTRUCTIO",
+        "HELP_LINE_1": "Ludum eligere et incipere, instruentem utere.",
+        "HELP_LINE_2": "Cum ad vestibulum ludii perveneris, tuam telephonum, tabulam, vel computatrum extrahas.",
+        "HELP_LINE_3": "Ad jackbox.tv in tuo instrumento i.",
+        "HELP_LINE_4": "Quattuor characteres camerae quos in televidere ostenditur, et nomen tuum adde.",
+        "HELP_LINE_5": "Primus lusor ad vestibulum ludii intrat (VIP) ludum ex suo instrumento incipere potest, ubi omnes parati sunt.",
+        "HELP_LINE_6": "Fruere cum amicis, familia, vel hominibus omnino ignotis.",
+        "HELP_URL": "help.jackboxgames.com"
+    },
+    "fr": {
+        "LANGUAGE_NAME": "Français",
+        "LANGUAGE": "Langue"
+    },
+    "it": {
+        "LANGUAGE_NAME": "Italiano",
+        "LANGUAGE": "Lingua"
+    },
+    "de": {
+        "LANGUAGE_NAME": "Deutsche",
+        "LANGUAGE": "Sprache"
+    },
+    "es": {
+        "LANGUAGE_NAME": "Español",
+        "LANGUAGE": "idioma"
+    }
+}
+}
