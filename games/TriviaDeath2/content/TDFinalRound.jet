@@ -205,7 +205,7 @@
         {
             "x": false,
             "id": 56749,
-            "text": "Gradus in Exercitu Romano",
+            "text": "Gradus in exercitu Romano",
             "choices": [
                 {
                     "difficulty": 0,
@@ -464,7 +464,7 @@
         {
             "x": false,
             "id": 55308,
-            "text": "Formationes in Exercitu Romano",
+            "text": "Formationes in exercitu Romano",
             "choices": [
                 {
                     "difficulty": 0,
