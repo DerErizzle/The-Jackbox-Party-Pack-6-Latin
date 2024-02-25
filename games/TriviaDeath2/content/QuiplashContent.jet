@@ -1,0 +1,20 @@
+{
+    "content": [
+        {
+            "x": false,
+            "id": 55670,
+            "prompt": "[EventName=HOST/AltHost]Quid Romani nobis unquam profuerunt?"
+        },
+        {
+            "x": false,
+            "id": 55671,
+            "prompt": "[EventName=HOST/AltHost]Quis imperator ad munus gladiatorium aptissimus erit?"
+        },
+        {
+            "x": false,
+            "id": 55672,
+            "prompt": "[EventName=HOST/AltHost]Quos alios usus Amphitheatrum Flavium habere potuit?"
+        }
+    ],
+    "episodeid": 1405
+}
