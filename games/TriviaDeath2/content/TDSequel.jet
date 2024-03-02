@@ -1,0 +1,72 @@
+{
+    "content": [{
+            "id": "00000000",
+            "minSequel": 2,
+            
+            "tag": "SIMPLE",
+            
+            "text": {
+                "main": "Quinque Annis Post"
+            }
+        }, {
+            "id": "00000001",
+            "minSequel": 2,
+            
+            "tag": "DOC",
+            "playerNamePrefix": "Dr.",
+
+            "text": {
+                "main": "Anno Postremo",
+                "sub": "(inter medicorum conventum in hospitio habitum)"
+            }
+        }, {
+            "id": "00000002",
+            "minSequel": 2,
+            
+            "tag": "NOT",
+            "playerNamePrefix": "Non ",
+
+            "text": {
+                "main": "Decem Et Novem Annis Post",
+                "sub": "(omnino diversi hospites convenerunt)"
+            }
+        }, {
+            "id": "00000003",
+            "minSequel": 2,
+            
+            "tag": "AM",
+
+            "text": {
+                "lowerThird": "mane prima"
+            }
+        }, {
+            "id": "00000004",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+            
+            "text": {
+                "main": "Septennio Annis Post",
+                "sub": "(Re vera, sex et dimidium anni sunt, sed ad septem annos rotundati)"
+            }
+        }, {
+            "id": "00000005",
+            "minSequel": 2,
+            
+            "tag": "SIMPLE",
+
+            "text": {
+                "main": "Decem Annis Post"
+            }
+        }, {
+            "id": "00000006",
+            "minSequel": 2,
+            
+            "tag": "SIMPLE",
+
+            "text": {
+                "main": "Viginti Annis Post"
+            }
+        }
+    ]
+}
