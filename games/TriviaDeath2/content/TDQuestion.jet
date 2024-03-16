@@ -1,0 +1,145 @@
+{
+    "episodeid": 1391,
+    "content": [
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10000,
+            "text": "Quis imperator Romanus primus Christianismum in Imperio Romano officialem fecit?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Iulius Caesar"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Nero"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Augustus"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Constantinus Magnus"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10001,
+            "text": "Quod carmen Romanum saepe ut opus magistrale litterarum Latinarum habetur?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "\"Aeneis\" a Cicerone"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "\"De Bello Gallico\" a Livio"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "\"Saturae\" a Iuvenale"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "\"Metamorphoses\" ab Ovidio"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10002,
+            "text": "Quis philosophus Romanus sententiam claram \"Cogito, ergo sum\" excogitavit?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Renatus Cartesius"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Seneca"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Cicero"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Plato"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10003,
+            "text": "Quis imperator Romanus magnitudine sua et aedificiis magnificis, ut Coliseo et Circo Maximo, notus est?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Vespasianus Caesar"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Hadrianus Caesar"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Augustus Caesar"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Nero Caesar"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10004,
+            "text": "Quis dux Romanus exercitum Punico bello contra Carthaginem duxit et pro sua arte et consilio bellico clarus est?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Gaius Marius"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Iulius Caesar"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Scipio Africanus"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Marcus Antonius"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        }
+    ]
+}
