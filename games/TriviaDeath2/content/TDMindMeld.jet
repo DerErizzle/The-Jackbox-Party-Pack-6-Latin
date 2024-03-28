@@ -1,0 +1,78 @@
+{
+    "episodeid": 1399,
+    "content": [
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Aries",
+                    "alt": [
+                        "Aris"
+                    ]
+                },
+                {
+                    "answer": "Taurus",
+                    "alt": [
+                        "Tauros"
+                    ]
+                },
+                {
+                    "answer": "Gemini",
+                    "alt": [
+                    ]
+                },
+                {
+                    "answer": "Cancer",
+                    "alt": [
+                    ]
+                },
+                {
+                    "answer": "Leo",
+                    "alt": [
+                    ]
+                },
+                {
+                    "answer": "Virgo",
+                    "alt": [
+                    ]
+                },
+                {
+                    "answer": "Libra",
+                    "alt": [
+                    ]
+                },
+                {
+                    "answer": "Scorpio",
+                    "alt": [
+                    ]
+                },
+                {
+                    "answer": "Sagittarius",
+                    "alt": [
+                        "Sagitarius"
+                    ]
+                },
+                {
+                    "answer": "Capricornus",
+                    "alt": [
+                        "Capricornius"
+                    ]
+                },
+                {
+                    "answer": "Aquarius",
+                    "alt": [
+                        "Aquarus"
+                    ]
+                },
+                {
+                    "answer": "Pisces",
+                    "alt": [
+                    ]
+                }
+            ],
+            "id": 57811,
+            "text": "Signum Zodiaci",
+            "us": false
+        }
+    ]
+}
