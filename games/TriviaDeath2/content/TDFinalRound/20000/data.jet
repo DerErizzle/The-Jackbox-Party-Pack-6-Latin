@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Imperatores Romani",
+            "t": "A",
+            "v": "category",
+            "n": "Q"
+        }
+    ]
+}

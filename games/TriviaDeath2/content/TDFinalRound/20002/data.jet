@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Gradus militares in exercitu Romano",
+            "t": "A",
+            "v": "category",
+            "n": "Q"
+        }
+    ]
+}

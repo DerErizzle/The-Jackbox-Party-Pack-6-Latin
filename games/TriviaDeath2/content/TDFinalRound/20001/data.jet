@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Provinciae Imperii Romani",
+            "t": "A",
+            "v": "category",
+            "n": "Q"
+        }
+    ]
+}

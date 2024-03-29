@@ -1,0 +1,19 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "Signum Zodiaci",
+            "n": "PromptText"
+        },
+        {
+            "s": "Signum Zodiaci",
+            "t": "A",
+            "n": "PromptAudio"
+        }
+    ]
+}
