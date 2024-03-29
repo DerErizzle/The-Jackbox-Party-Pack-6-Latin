@@ -140,6 +140,90 @@
             ],
             "us": false,
             "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10005,
+            "text": "Quod signum zodiaci erat Iulius Caesar?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Cancer"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Scorpio"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Capricornus"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Pisces"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10006,
+            "text": "Quis philopsophus Hierapolite natus est?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Epictetus"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Zeno Citieus"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Marcus Aurelius"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Seneca"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10007,
+            "text": "Quid est hexametrum?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Locus Romae"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Prandium"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Mensura in Carminibus"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Mater tua"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
         }
     ]
 }
