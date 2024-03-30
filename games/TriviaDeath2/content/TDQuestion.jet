@@ -224,6 +224,174 @@
             ],
             "us": false,
             "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10008,
+            "text": "Quis color est ignis?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Albus"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Ruber"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Flavus"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Viridis"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10009,
+            "text": "Quis deus Romanus est amoris?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Mars"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Minerva"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Venus"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Neptune"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10010,
+            "text": "Quis est 'carpe diem'?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Dominare mundo"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Colligere flores"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Vivere in momento"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Timeo Danaos et dona ferentes"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10011,
+            "text": "Quot sunt dies in septimana?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Septem"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Octo"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Decem"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Novem"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10012,
+            "text": "Quae est ultima littera alphabeti Latini?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "A"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Z"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "I"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "X"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 10013,
+            "text": "Quae via antiqua Romam pluribus urbibus Europae connectebat?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Via Appia"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Via Flaminia"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Via Aurelia"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Via Salaria"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
         }
     ]
 }
