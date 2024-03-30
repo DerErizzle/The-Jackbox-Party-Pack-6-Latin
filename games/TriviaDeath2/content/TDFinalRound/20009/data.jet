@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Litterae alphabeti Latini",
+            "t": "A",
+            "v": "category",
+            "n": "Q"
+        }
+    ]
+}

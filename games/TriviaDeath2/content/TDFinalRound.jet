@@ -769,6 +769,177 @@
                 }
             ],
             "us": false
+        },
+        {
+            "x": false,
+            "id": 20008,
+            "text": "Verba quae non sunt 'calamitas'",
+            "choices": [
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "Romanes eunt domus"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "caeter"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "calamitarum"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "calamitae"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "calamares"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "calamitas"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "calamitas"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "calamitas"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "calamitas"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "calamitas"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "calamitas"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "calamitas"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "calamitas"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "calamitas"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "calamitas"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "calamitas"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "calamitas"
+                }
+            ],
+            "us": false
+        },
+        {
+            "x": false,
+            "id": 20009,
+            "text": "Litterae alphabeti Latini",
+            "choices": [
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "A"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "E"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "X"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "H"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "M"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "P"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "Q"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "V"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": true,
+                    "text": "F"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "J"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "U"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "W"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "Y"
+                },
+                {
+                    "difficulty": 0,
+                    "correct": false,
+                    "text": "Z"
+                }
+            ],
+            "us": false
         }
     ]
 }

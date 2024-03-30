@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Verba quae non sunt 'calamitas'",
+            "t": "A",
+            "v": "category",
+            "n": "Q"
+        }
+    ]
+}
