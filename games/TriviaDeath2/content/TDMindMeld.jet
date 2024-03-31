@@ -7,67 +7,65 @@
                 {
                     "answer": "Aries",
                     "alt": [
-                        "Aris"
+                        "aris"
                     ]
                 },
                 {
                     "answer": "Taurus",
                     "alt": [
-                        "Tauros"
+                        "tauros"
                     ]
                 },
                 {
                     "answer": "Gemini",
-                    "alt": [
-                    ]
+                    "alt": []
                 },
                 {
                     "answer": "Cancer",
-                    "alt": [
-                    ]
+                    "alt": []
                 },
                 {
                     "answer": "Leo",
-                    "alt": [
-                    ]
+                    "alt": []
                 },
                 {
                     "answer": "Virgo",
-                    "alt": [
-                    ]
+                    "alt": []
                 },
                 {
                     "answer": "Libra",
-                    "alt": [
-                    ]
+                    "alt": []
                 },
                 {
                     "answer": "Scorpio",
-                    "alt": [
-                    ]
+                    "alt": []
                 },
                 {
                     "answer": "Sagittarius",
                     "alt": [
-                        "Sagitarius"
+                        "sagitarius",
+                        "saggitarius",
+                        "saggitarious",
+                        "sagitarious",
+                        "sagittarious"
                     ]
                 },
                 {
                     "answer": "Capricornus",
                     "alt": [
-                        "Capricornius"
+                        "capricornius",
+                        "capricorn"
                     ]
                 },
                 {
                     "answer": "Aquarius",
                     "alt": [
-                        "Aquarus"
+                        "aquarus"
                     ]
                 },
                 {
                     "answer": "Pisces",
-                    "alt": [
-                    ]
+                    "alt": []
                 }
             ],
             "id": 57811,
